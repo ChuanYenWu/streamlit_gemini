@@ -15,9 +15,11 @@ from voice import record_voice
 # Float feature initialization
 float_init()
 
-load_dotenv(".env")
-
-fetcheed_api_key = os.getenv("API_KEY")
+# local with .env file
+#load_dotenv(".env")
+#fetcheed_api_key = os.getenv("API_KEY")
+# for Streamlit Community Cloud
+fetcheed_api_key = st.secrets['API_KEY']
 ggi.configure(api_key = fetcheed_api_key)
 
 #model = ggi.GenerativeModel("gemini-pro") 
