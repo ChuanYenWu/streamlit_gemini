@@ -11,6 +11,8 @@ Streamlit讓我們能簡單藉由python架構出app
 連接Gemini API的來實現與LLM的對話、問答，並搭建打字輸入和語音輸入兩種方式。
 
 ### Demo
+[streamlit-app-2024-07-16-14-07-60.webm](https://github.com/user-attachments/assets/6ee95a04-3cfb-480d-8626-4f544a81404b)
+
 
 ### 檔案
 * app.py: 主程式，負責API連接、處理輸入文字訊息、傳送訊息給機器人並接收回應、聊天訊息紀錄與呈現
