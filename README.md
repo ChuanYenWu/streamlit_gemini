@@ -2,6 +2,11 @@
 以中文為主要輸入語言的聊天機器人(使用Gemini API)  
 在查詢LLM的API使用時，剛好見到別人文章中使用到了streamlit，發現挺有趣且方便的，就決定來試一試  
 [Try it on Streamlit Cloud](https://appgeminizh-tim.streamlit.app/ "link")
+
+### README.md
+[中文](/README.md "link")<br>
+[English](/README.en.md "link")<br>
+
 ### Streamlit
 > Streamlit is an open-source Python framework for data scientists and AI/ML engineers to deliver interactive data apps – in only a few lines of code.<br>  
 
