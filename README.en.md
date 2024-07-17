@@ -3,6 +3,11 @@ A chatbot that uses Chinese as the input language (utilizes Gemini API).
 While researching the usage of LLM's API, I happened to see an article where someone used streamlit.
 I found it quite interesting and convenient, so I decided to give it a try.  
 [Try it on Streamlit Cloud](https://appgeminizh-tim.streamlit.app/ "link")
+
+### README.md
+[中文](/README.md "link")<br>
+[English](/README.en.md "link")<br>
+
 ### Streamlit
 > Streamlit is an open-source Python framework for data scientists and AI/ML engineers to deliver interactive data apps – in only a few lines of code.<br>  
 
